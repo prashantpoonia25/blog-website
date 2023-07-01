@@ -1,0 +1,202 @@
+.header {
+
+    padding: 0px; /* some padding */
+    text-align: center; /* center the text */
+    background: #ECC19C; /* green background */
+    color: white; /* white text color */
+  }
+  
+  /* Increase the font size of the <h1> element */
+  .header h1 {
+    font-size: 40px;
+  }
+  
+  body {
+    background-color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    min-height: 100vh;
+    
+  }
+
+  .wrapper {
+    margin: 15px auto;
+    width: 90%;
+    
+  }
+
+  img {
+    border-radius: 20px;
+    float: left;
+    border: 3px solid #333;
+    margin-right: 20px;
+    padding-left: 0px;
+    
+  }
+
+  /*.img {
+    width: 300px;
+    padding: 25px 0px 25px 10px;
+    box-sizing: border-box;
+    
+    border-color: #333;
+    
+  }*/
+
+  .{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+  }
+  
+  .text-box {
+    color: #333;
+  }
+ 
+  .text-box h2 {
+    font-size: 42px;
+  }
+
+  .text-box p {
+    font-size: 15px;
+  }
+
+  p{
+    word-spacing: 8px;
+  }
+
+
+  .blog0 {
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0px;
+    top: 600px;
+    left: 70px;
+    border-radius: 0px;
+    text-indent: 25px;
+    
+    
+
+  .blog{
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0px;
+    top: 800px;
+    left: 550px;
+    border-radius: 0px;
+    text-indent: 25px;
+  }
+  .blog1 {
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0px;
+    top: 1000px;
+    left: 70px;
+    border-radius: 0px;
+    text-indent: 25px;
+    
+    
+  }
+
+  .blog2 {
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0px;
+    top: 3000px;
+    left: 70px;
+    text-indent: 25px;
+  }
+
+  .blog3 {
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0px;
+    top: 1000px;
+    left: 600px;
+    text-indent: 25px;
+  }
+
+  .blog4 {
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0px;
+    top: 2000px;
+    left: 70px;
+    text-indent: 25px;
+  }
+
+  .blog5 {
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0px;
+    top: 3000px;
+    left: 600px;
+    text-indent: 25px;
+  }
+
+  .blog6 {
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0px;
+    top: 2000px;
+    left: 600px;
+    text-indent: 25px;
+  }
+  
+  div.blog1 img{
+   
+  border-radius: 4px;
+    border-radius: 0px;
+    
+  }
+  div.blog2 img{
+    border-radius: 0px;
+  }
+  div.blog3 img{
+    border-radius: 0px;
+  }
+  div.blog4 img{
+    border-radius: 0px;
+  }
+  div.blog5 img{
+    border-radius: 0px;
+  }
+  div.blog6 img{
+    border-radius: 0px;
+  }
+
+  
+
+  .top{
+    background-color: purple;
+    width: 100%;
+    
+    
+  }
+
+  #more {display: none;}
+  
+  /*.bottom{
+    background-color: white;
+    width: 150px;
+    top: 500px;
+    float: left;
+  
+  }
+  .div1{
+    float: left;
+    background: red;
+  }
+
+
+
+
+
+
+
+
+  
